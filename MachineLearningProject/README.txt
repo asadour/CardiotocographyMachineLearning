@@ -1,1 +1,1 @@
-Το project το τρέξαμε σε conda env με την έκδοση Python -> Python 3.7 στο PyCharm IDE
+
